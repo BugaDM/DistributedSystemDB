@@ -1,0 +1,9 @@
+AUTORES:
+	César Bonilla Garrido
+	Sergio Bugallo Enjaimo
+	Marcos Cela López
+	Daniel Vilar Peiteado
+
+Tener en cuenta que si se usa el cliente java, se recomienda hacerlo desde eclipse, ya que utiliza una función propia para dibujar las tablas que se salta el límite de 80 caracteres del terminal por defecto, y dicho cliente usa como parámetros de conexión:
+user:root
+pass:markoscl
